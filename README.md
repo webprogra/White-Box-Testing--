@@ -1,1 +1,1 @@
-![image-20191115210743488](https://github.com/2019NJUSAT/White-Box-Testing-/blob/master/IMG/result.png)
+![运行结果图](https://github.com/webprogra/White-Box-Testing--/tree/master/IMG/result.png)
